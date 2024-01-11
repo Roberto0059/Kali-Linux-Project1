@@ -3,6 +3,7 @@
 - You will discover how the OWASP Top 10 helps cybersecurity professionals such as penetration testers to discover security 
 vulnerabilities within web applications. You will gain the skills to perform vulnerability discovery and exploitation on a web application while using the OWASP Top 10 as 
 a methodological approach.
+- OWASP Top 10 is a list which contains the details of the most severe and critical security risks within web applications.
 
 <h2>Utilities Used</h2>
 
