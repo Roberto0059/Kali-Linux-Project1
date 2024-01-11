@@ -17,6 +17,6 @@ a methodological approach.
 
 <h2>Project</h2>
 
-- [Kali-Linux-Project](https://github.com/Roberto0059/Kali-Linux-Project1/blob/84603056194f9b30bd23187f861fa52108a4740b/RF_CISA4324_Fall23_Chapter15.pdf)
-- [Kali-Linux-Project](https://github.com/Roberto0059/Kali-Linux-Project1/blob/12d54f2fb53d14a7a4fda5ce3289fcff75acd670/RF_CISA4324_Fall23_Chapter16.pdf)
+- [Kali-Linux-Project Section 1](https://github.com/Roberto0059/Kali-Linux-Project1/blob/84603056194f9b30bd23187f861fa52108a4740b/RF_CISA4324_Fall23_Chapter15.pdf)
+- [Kali-Linux-Project Section 2](https://github.com/Roberto0059/Kali-Linux-Project1/blob/12d54f2fb53d14a7a4fda5ce3289fcff75acd670/RF_CISA4324_Fall23_Chapter16.pdf)
     
